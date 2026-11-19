@@ -1,0 +1,6 @@
+{
+  "name": "SQLPrep — SQL & RDBMS Interview Prep",
+  "description": "Interactive SQL & RDBMS interview preparation platform with scrollable topic buttons, module progress tracking, visual diagrams, and real query examples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
